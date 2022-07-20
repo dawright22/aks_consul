@@ -1,4 +1,4 @@
-# Vault in Kubernetes
+# Consul in Kubernetes
 
 This repo provides a demo non prodcution app that works with HashiCorp Vault 
 
